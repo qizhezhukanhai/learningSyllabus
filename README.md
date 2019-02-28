@@ -1,2 +1,2 @@
-# netProject
-初次使用github新建的项目
+# learningSyllabus
+记录平时学习的知识点
